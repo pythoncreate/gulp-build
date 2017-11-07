@@ -9,13 +9,18 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "del": "^3.0.0",
     "gulp": "^3.9.1",
+    "gulp-changed": "^3.1.1",
     "gulp-clean-css": "^3.9.0",
     "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-imagemin": "^3.4.0",
     "gulp-rename": "^1.2.2",
     "gulp-sass": "^3.1.0",
     "gulp-sourcemaps": "^2.6.1",
-    "gulp-uglify": "*",
-    "http-server": "^0.10.0"
+    "gulp-uglify": "^3.0.0",
+    "http-server": "^0.10.0",
+    "run-sequence": "^2.2.0"
   }
 }
